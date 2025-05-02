@@ -29,4 +29,4 @@ pypdf
 
 # Web search tools
 exa-py
-firecrawl
+firecrawl-py
